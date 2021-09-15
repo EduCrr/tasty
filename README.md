@@ -1,2 +1,2 @@
 Projeto feito apenas para estudo em:
-HTML & CSS, JS, BOOTSTRAPG
+HTML & CSS, JS, BOOTSTRAP
