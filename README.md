@@ -3,6 +3,8 @@ HTML & CSS, JS, BOOTSTRAP
 https://educrr.github.io/tasty/
 </div>
 
+<br/>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87316285/141789729-22a646b8-b42a-40be-8c94-5afaf387485e.png" width="500px" />
 </div>
